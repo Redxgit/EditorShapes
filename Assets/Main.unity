@@ -200,7 +200,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32be61b3403aef3418bdd9583a23cbb6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  points: []
+  points:
+  - {x: -3.9817724, y: 0, z: 6.217729}
+  - {x: 4.985906, y: 0, z: 6.7816215}
+  - {x: 9.394117, y: 0, z: -4.3180766}
+  - {x: 1.2430124, y: 0, z: -9.980791}
+  - {x: -7.2879868, y: 0, z: -6.2545915}
+  - {x: -9.785731, y: 0, z: 2.0546966}
+  handleRadius: 0.5
 --- !u!4 &909180427
 Transform:
   m_ObjectHideFlags: 0
